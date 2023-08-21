@@ -1,0 +1,7 @@
+header{
+    display: flex;
+    align-content: flex-start;
+    background: #FF0000;
+    height: 70px;
+    width: 100%;
+}
